@@ -1,9 +1,5 @@
-# :lock: CIS Debian 10/11 Hardening
+# :lock: CIS Oracle Linux 07/08 Hardening
 
-
-<p align="center">
-      <img src="https://repository-images.githubusercontent.com/56690366/bbe7c380-55b2-11eb-84ba-d06bf153fe8b" width="300px">
-</p>
 
 ![Shell-linter](https://github.com/ovh/debian-cis/workflows/Run%20shell-linter/badge.svg)
 ![Functionnal tests](https://github.com/ovh/debian-cis/workflows/Run%20functionnal%20tests/badge.svg)
@@ -13,7 +9,7 @@
 ![License](https://img.shields.io/github/license/ovh/debian-cis)
 ---
 
-Modular Debian 10/11 security hardening scripts based on [cisecurity.org](https://www.cisecurity.org)
+Modular Oracle Linux 07/08 security hardening scripts based on [cisecurity.org](https://www.cisecurity.org)
 recommendations. We use it at [OVHcloud](https://www.ovhcloud.com) to harden our PCI-DSS infrastructure.
 
 ```console
